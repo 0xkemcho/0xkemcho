@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xkemcho
 - 👀 I’m interested in everything web3
-- 🌱 I’m currently learning "How to scale Web3 infra"
+- 🌱 I’m currently learning "How to scale Web3 & AI infra / GTM"
 - 💞️ I’m looking to collaborate on "Building startup"
 - 📫 How to reach me "0xkemcho@gmail.com and https://x.com/0xkemcho"
 - 😄 Pronouns: he/him
